@@ -1,0 +1,51 @@
+[08-Apr-2024 09:13:55 UTC] PHP Warning:  Undefined variable $cat_query in /home/intepkvx/recipetwo.afolabisalawu.site/chef/categories.php on line 24
+[08-Apr-2024 09:13:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/intepkvx/recipetwo.afolabisalawu.site/chef/categories.php:24
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/categories.php(24): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/categories.php on line 24
+[08-Apr-2024 09:15:06 UTC] PHP Warning:  Undefined variable $conn in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php on line 48
+[08-Apr-2024 09:15:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php:48
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php on line 48
+[08-Apr-2024 09:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php:48
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php on line 48
+[08-Apr-2024 09:16:41 UTC] PHP Warning:  Undefined variable $store_data in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php on line 50
+[08-Apr-2024 09:18:00 UTC] PHP Warning:  Undefined variable $store_data in /home/intepkvx/recipetwo.afolabisalawu.site/chef/edit-category.php on line 50
+[08-Apr-2024 11:03:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/intepkvx/recipetwo.afolabisalawu.site/chef/all-recipes.php:6
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/all-recipes.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/all-recipes.php on line 6
+[08-Apr-2024 11:04:16 UTC] PHP Warning:  Undefined array key "nam,e" in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 69
+[08-Apr-2024 13:03:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 114
+[08-Apr-2024 13:03:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 223
+[08-Apr-2024 13:22:44 UTC] PHP Warning:  Undefined variable $conn in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 5
+[08-Apr-2024 13:22:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php:5
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php(5): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 5
+[08-Apr-2024 17:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 114
+[08-Apr-2024 17:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 223
+[09-Apr-2024 06:45:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 114
+[09-Apr-2024 06:45:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 223
+[09-Apr-2024 06:45:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 5
+[09-Apr-2024 06:45:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php:7
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 7
+[09-Apr-2024 08:30:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 114
+[09-Apr-2024 08:30:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/header.php on line 223
+[09-Apr-2024 08:30:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 5
+[09-Apr-2024 08:30:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php:7
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php(7): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/chef/dashboard.php on line 7

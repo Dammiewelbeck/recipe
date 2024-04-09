@@ -1,0 +1,236 @@
+[02-Feb-2024 08:56:02 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[02-Feb-2024 08:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[02-Feb-2024 08:56:26 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[02-Feb-2024 08:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[02-Feb-2024 08:56:38 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[02-Feb-2024 08:56:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[02-Feb-2024 09:16:01 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[02-Feb-2024 09:16:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "logo1" in /home/intepkvx/potential.com.ng/adminend/update.php on line 14
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "logo2" in /home/intepkvx/potential.com.ng/adminend/update.php on line 15
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "passport" in /home/intepkvx/potential.com.ng/adminend/update.php on line 33
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/update.php on line 33
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "passport" in /home/intepkvx/potential.com.ng/adminend/update.php on line 34
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/update.php on line 34
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "signature" in /home/intepkvx/potential.com.ng/adminend/update.php on line 45
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/update.php on line 45
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Undefined array key "signature" in /home/intepkvx/potential.com.ng/adminend/update.php on line 46
+[02-Feb-2024 09:20:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/update.php on line 46
+[02-Feb-2024 10:05:46 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[02-Feb-2024 10:05:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 09:25:31 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 09:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 10:52:52 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 10:52:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 10:54:09 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 10:54:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 17:48:43 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 17:48:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 18:27:27 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 18:27:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 20:46:36 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 20:46:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 20:51:35 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 20:51:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 20:58:26 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 20:58:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 22:19:54 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 22:19:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 22:22:33 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 22:22:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[03-Feb-2024 22:22:35 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[03-Feb-2024 22:22:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[06-Feb-2024 09:38:19 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[06-Feb-2024 09:38:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[06-Feb-2024 09:44:31 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[06-Feb-2024 09:44:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[07-Feb-2024 13:23:19 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[07-Feb-2024 13:23:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[07-Feb-2024 13:24:28 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[07-Feb-2024 13:24:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[09-Feb-2024 08:19:27 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[09-Feb-2024 08:19:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:23:23 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:23:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:24:09 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:24:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:24:11 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:24:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:24:21 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:24:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:24:42 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[15-Feb-2024 17:25:59 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[15-Feb-2024 17:25:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[16-Feb-2024 00:52:52 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[16-Feb-2024 00:52:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[16-Feb-2024 05:14:34 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[16-Feb-2024 05:14:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[16-Feb-2024 11:48:47 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[16-Feb-2024 11:48:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[16-Feb-2024 17:34:10 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[16-Feb-2024 17:34:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[16-Feb-2024 17:35:19 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[16-Feb-2024 17:35:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[17-Feb-2024 13:00:23 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[17-Feb-2024 13:00:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[17-Feb-2024 15:09:21 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[17-Feb-2024 15:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[20-Feb-2024 11:12:10 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[20-Feb-2024 11:12:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[20-Feb-2024 11:13:23 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[20-Feb-2024 11:13:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 09:52:11 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 09:52:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 09:55:19 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 09:55:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 10:07:58 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 10:07:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 10:08:41 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 10:08:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 10:40:20 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 10:40:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[28-Feb-2024 10:43:17 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[28-Feb-2024 10:43:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[26-Mar-2024 07:40:56 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/potential.com.ng/adminend/header.php on line 6
+[26-Mar-2024 07:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/potential.com.ng/adminend/aside.php on line 20
+[01-Apr-2024 16:17:44 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[01-Apr-2024 16:17:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 20
+[04-Apr-2024 12:36:30 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[04-Apr-2024 12:36:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 20
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 20
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/profile.php on line 49
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/profile.php on line 54
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/profile.php on line 59
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/profile.php on line 64
+[04-Apr-2024 15:37:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/profile.php on line 69
+[08-Apr-2024 15:10:07 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[08-Apr-2024 15:10:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 20
+[08-Apr-2024 15:10:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:14:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:16:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:16:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:17:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:17:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:21:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:22:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:23:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:24:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:24:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:25:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 15:26:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'intepkvx_recipetwodb.entrance_application' doesn't exist in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php:15
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/dashboard.php on line 15
+[08-Apr-2024 16:42:09 UTC] PHP Warning:  Undefined variable $carry in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/categories.php on line 63
+[08-Apr-2024 16:42:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, null given in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/categories.php:63
+Stack trace:
+#0 /home/intepkvx/recipetwo.afolabisalawu.site/adminend/categories.php(63): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/categories.php on line 63
+[08-Apr-2024 16:45:55 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/chefs.php on line 69
+[08-Apr-2024 16:45:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/chefs.php on line 69
+[08-Apr-2024 16:45:55 UTC] PHP Warning:  Undefined variable $category in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/chefs.php on line 69
+[08-Apr-2024 16:45:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/chefs.php on line 69
+[08-Apr-2024 16:56:03 UTC] PHP Warning:  Undefined variable $loader in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php on line 73
+[08-Apr-2024 16:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function categoryName() on null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php on line 73
+[08-Apr-2024 16:56:21 UTC] PHP Warning:  Undefined variable $loader in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php on line 73
+[08-Apr-2024 16:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function categoryName() on null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/recipes.php on line 73
+[08-Apr-2024 16:57:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[08-Apr-2024 16:57:30 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[08-Apr-2024 16:57:30 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[08-Apr-2024 16:57:30 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[08-Apr-2024 16:57:30 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
+[08-Apr-2024 16:58:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[08-Apr-2024 16:58:17 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[08-Apr-2024 16:58:17 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[08-Apr-2024 16:58:17 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[08-Apr-2024 16:58:17 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
+[08-Apr-2024 16:58:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[08-Apr-2024 16:58:22 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[08-Apr-2024 16:58:22 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[08-Apr-2024 16:58:22 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[08-Apr-2024 16:58:22 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
+[08-Apr-2024 17:01:01 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[08-Apr-2024 17:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[08-Apr-2024 17:15:33 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[08-Apr-2024 17:15:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[08-Apr-2024 17:15:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[08-Apr-2024 17:15:56 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[08-Apr-2024 17:15:56 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[08-Apr-2024 17:15:56 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[08-Apr-2024 17:15:56 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
+[08-Apr-2024 17:19:04 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[08-Apr-2024 17:19:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[08-Apr-2024 17:19:06 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[08-Apr-2024 17:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[09-Apr-2024 10:18:44 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[09-Apr-2024 10:18:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[09-Apr-2024 11:01:15 UTC] PHP Warning:  Undefined array key "admin" in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/header.php on line 6
+[09-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/intepkvx/recipetwo.afolabisalawu.site/adminend/aside.php on line 6
+[09-Apr-2024 11:02:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[09-Apr-2024 11:02:40 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[09-Apr-2024 11:02:40 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[09-Apr-2024 11:02:40 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[09-Apr-2024 11:02:40 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
+[09-Apr-2024 11:05:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 2
+[09-Apr-2024 11:05:49 UTC] PHP Warning:  Constant DB_SERVER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 18
+[09-Apr-2024 11:05:49 UTC] PHP Warning:  Constant DB_USER already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 19
+[09-Apr-2024 11:05:49 UTC] PHP Warning:  Constant DB_PASS already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 20
+[09-Apr-2024 11:05:49 UTC] PHP Warning:  Constant DB_NAME already defined in /home/intepkvx/recipetwo.afolabisalawu.site/default.php on line 21
